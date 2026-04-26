@@ -8,7 +8,7 @@ st.set_page_config(
 
 st.title("⚽ Smart Scouting Recommendation System")
 st.markdown("""
-这个应用展示了两类推荐能力：
+The app is showing：
 
 1. **Similar Player Recommendation**
    - Baseline: feature-based similarity
