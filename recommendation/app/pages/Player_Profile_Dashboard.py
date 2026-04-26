@@ -30,8 +30,8 @@ REQUIRED_TABLES = {
 HEATMAP_GROUP_ALIASES = {
     "global": ["global", "overall", "all", "full"],
     "attack": ["attack", "attacking", "offense", "offensive"],
-    "build": ["build", "build_up", "playmaking", "organisation", "organization", "progression"],
-    "defense": ["defense", "defence", "defending", "defensive"],
+    "build": ["build", "build_up", "buildip", "playmaking", "organisation", "organization", "progression"],
+    "defense": ["defense", "defence", "defending", "defensive", "defend" ],
 }
 
 PITCH_LINE_COLOR = "rgba(255,255,255,0.85)"
