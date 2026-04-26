@@ -30,7 +30,7 @@ REQUIRED_TABLES = {
 HEATMAP_GROUP_ALIASES = {
     "global": ["global", "overall", "all", "full"],
     "attack": ["attack", "attacking", "offense", "offensive"],
-    "build": ["build", "build_up", "buildip", "playmaking", "organisation", "organization", "progression"],
+    "build": ["build", "build_up", "buildup", "playmaking", "organisation", "organization", "progression"],
     "defense": ["defense", "defence", "defending", "defensive", "defend" ],
 }
 
