@@ -15,7 +15,7 @@ The app is showing：
    - Learned model: autoencoder embedding similarity
 
 2. **Recruitment Ranking**
-   - 根据不同维度权重筛选候选球员
+   - Use different dimention to search player
 """)
 
-st.info("请从左侧页面进入：Similar Player 或 Recruitment")
+st.info("Please Enter for the Left Bar：Similar Player or Recruitment")
